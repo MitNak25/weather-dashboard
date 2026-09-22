@@ -67,7 +67,7 @@ npm run dev   # o yarn dev
 
 <hr>
 <p style="font-size:0.9rem;color:#777;">
-  <em>Generado con ❤️ por <a href="https://github.com/MituNakan" target="_blank">MituNakan</a>.</em>
+  <em>Generado con ❤️ por <a href="https://github.com/MitNak25" target="_blank">MitNak25</a>.</em>
 </p>
 
 </div>
