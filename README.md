@@ -29,12 +29,12 @@
 
 <h2>Captura de pantalla</h2>
 <p>
-  <img src="https://raw.githubusercontent.com/MituNakan/tu‑repo/main/assets/screenshot.png" alt="Captura de pantalla del Weather Dashboard">
+  <img src="https://raw.githubusercontent.com/MitNak25/weather-dashboard/main/assets/screenshot.png" alt="Captura de pantalla del Weather Dashboard">
 </p>
 
 <h2>Instalación</h2>
 <pre><code># Clona el repositorio
-git clone https://github.com/tu-usuario/weather-dashboard.git
+git clone https://github.com/MitNak25/weather-dashboard.git
 cd weather-dashboard
 
 # Instala dependencias
