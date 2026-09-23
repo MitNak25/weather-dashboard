@@ -11,4 +11,4 @@ cp .env.example .env
 npm run dev
 ```
 
-The API key is exposed to the browser by design because Vite client variables are public. Use a backend proxy for production keys. Build with `npm run build`.
+The browser receives this Vite variable, so the key is public. Use a backend proxy with server-side secrets for production. Build with `npm run build`.
