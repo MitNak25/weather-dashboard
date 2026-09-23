@@ -1,0 +1,4 @@
+:root { font-family: system-ui, sans-serif; color: #172033; background: #eaf4ff; }
+body { margin: 0; } .app { max-width: 640px; margin: 10vh auto; padding: 2rem; text-align: center; }
+form { display: flex; gap: .5rem; justify-content: center; } input, button { padding: .75rem 1rem; border-radius: .5rem; border: 1px solid #b6c8dc; font-size: 1rem; } input { flex: 1; } button { background: #1769aa; color: white; cursor: pointer; } button:disabled { opacity: .6; }
+.card { margin-top: 2rem; padding: 1.5rem; border-radius: 1rem; background: white; box-shadow: 0 8px 24px #22446622; } .temp { font-size: 4rem; margin: .5rem; } .error { color: #a40000; margin-top: 1rem; }
